@@ -1,6 +1,6 @@
 ### Xarmy
 
-logistics app 
+Logistics app for shipping companies to management the order 
 
 ### Installation
 
@@ -39,3 +39,4 @@ This app can use GitHub Actions for CI. The following workflows are configured:
 ### License
 
 mit
+
